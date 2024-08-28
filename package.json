@@ -1,0 +1,32 @@
+{
+    "name": "top-n-products",
+    "version": "1.0.0",
+    "description": "A React app to display top N products.",
+    "main": "index.js",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+         "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "dependencies": {
+        "axios": "^1.7.5",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-scripts": "^5.0.1"
+    },
+    "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": [
+    "last 2 versions",
+    "IE 11"
+  ]
+    
+      
+}
+
+  
